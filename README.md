@@ -39,7 +39,7 @@ Then run the following commands to run your app:
 
 ## Tech Used
 **Server**: Firebase Auth, Firebase Storage, Firebase Firestore
-
+**Video Call** Agora SDK
 **Client**: Flutter, Riverpod
     
 ## Feedback
